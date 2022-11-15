@@ -1,0 +1,16 @@
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.exe
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.deps.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.runtimeconfig.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.runtimeconfig.dev.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\ref\activ.1.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\bin\Debug\net5.0\activ.1.pdb
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.csproj.AssemblyReference.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.AssemblyInfoInputs.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.AssemblyInfo.cs
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.csproj.CoreCompileInputs.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\ref\activ.1.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.pdb
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\activ.1\obj\Debug\net5.0\activ.1.genruntimeconfig.cache
